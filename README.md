@@ -28,10 +28,6 @@
 * Выбрана [модель](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors) SDXL 1.0 в качестве базовой 
 * Изображения из дата-сета были отредактированы в Photoshop до размера 1024x1024, необходимого для обучения модели
 ![6tshclthss](https://github.com/Soltechml/ClothesLora/assets/146172822/9a1bd392-3146-47db-8f50-fedf1ca08441) ![5tshclthss](https://github.com/Soltechml/ClothesLora/assets/146172822/4c8cc689-0521-4aa1-ba65-ed57baa179a9) ![4tshclthss](https://github.com/Soltechml/ClothesLora/assets/146172822/17d0e7b2-99ba-4719-a63d-9775a23daeea)
-
-
-
-
 * Была обучена модель LoRA на основе SDXL 1.0 в Google Colab
 * Произведено тестирование обученной модели в интерфейсе ComfyUI
 
