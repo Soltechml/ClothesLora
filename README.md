@@ -29,7 +29,7 @@
 * Изображения из дата-сета были отредактированы в Photoshop до размера 1024x1024, необходимого для обучения модели
 * Была обучена модель LoRA на основе SDXL 1.0 в Google Colab
 * Произведено тестирование обученной модели в интерфейсе ComfyUI
-![IMG_4030 (2)](https://github.com/Soltechml/ClothesLora/assets/146172822/21c2d7f7-d473-489b-b3ea-ac2288881cfd)
 
+![photo_5276295589048475807_y](https://github.com/Soltechml/ClothesLora/assets/146172822/c5aeb155-e9da-4d30-90c9-9692fa8c004b)
 
 
