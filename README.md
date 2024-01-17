@@ -30,3 +30,6 @@
 * Была обучена модель LoRA на основе SDXL 1.0 в Google Colab
 * Произведено тестирование обученной модели в интерфейсе ComfyUI
 
+  [CE0F4BD4-3B93-4C79-AAD3-D4D64BC73B73 (1).pdf](https://github.com/Soltechml/ClothesLora/files/13958131/CE0F4BD4-3B93-4C79-AAD3-D4D64BC73B73.1.pdf)
+
+
