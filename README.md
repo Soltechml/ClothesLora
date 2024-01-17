@@ -32,4 +32,6 @@
 
 ![photo_5276295589048475807_y](https://github.com/Soltechml/ClothesLora/assets/146172822/c5aeb155-e9da-4d30-90c9-9692fa8c004b)
 
+![image](https://github.com/Soltechml/ClothesLora/assets/146172822/a3e1c9bd-7df9-404b-84b9-0e456d043968)
+
 
